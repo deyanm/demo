@@ -1,7 +1,7 @@
-## Try it
+## MOCK Server
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[MOCK server](https://my-json-server.typicode.com/deyanm/demo)
 
-## Use your own data
+## What it has?
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+This is my implementation of the typicode MOCK server, for testing purposes. All rights goes to typicode!
